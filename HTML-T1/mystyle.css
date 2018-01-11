@@ -1,0 +1,33 @@
+body{
+	background-color: #D8D8D8;
+	margin: 0
+}
+
+div.nav {
+	background-color: black;
+	height: 120px;
+	margin: 0;
+	padding: 0;
+}
+
+.nav1{
+	display: inline;
+	color: white;
+	float: right;
+}
+
+ul.nav01{
+	float: right;
+	width: 100%
+}
+
+img.toppic{
+	float: left;
+	width: 120px;
+	height: 100px;
+	position: absolute;
+
+}
+h2,h3{
+	font-family: 'Lato', sans-serif;
+}
